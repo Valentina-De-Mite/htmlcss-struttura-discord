@@ -99,3 +99,52 @@ footer {
     height: 400px;
     width: 100%;
 }
+
+.container_footer {
+    width: 80%;
+    margin: auto;
+    background-color: rgb(235, 197, 127);
+    height: 80%;
+    margin-top: 2rem;
+}
+
+.row_footer {
+    background-color: rgb(176, 82, 82);
+    height: 85%;
+    width: 100%;
+    align-self: center;
+    padding-top: 1rem;
+}
+
+.beije {
+    background-color: beige;
+    height: 80%;
+    align-self: center;
+    justify-content: center;
+}
+
+.col-4 {
+    width: calc(100% * 4/12);
+    margin-right: 5px;
+}
+
+.col-2 {
+    width: calc(100% * 2/12);
+    margin-right: 5px;
+}
+
+.row {
+    height: 40px;
+    justify-content: space-between;
+    align-items: center;
+    background-color: blanchedalmond;
+    margin-top: 0.3rem;
+}
+
+.col-10 {
+    background-color: beige;
+    width: 10%;
+    height: 80%;
+    border: 1px black dashed;
+
+}
